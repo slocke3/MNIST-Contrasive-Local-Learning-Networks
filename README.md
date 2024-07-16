@@ -1,5 +1,5 @@
-# MNIST-CoupledLearning
- Classify the MNIST dataset with a linear flow network.
+# MNIST-Contrastive-Local-Learning-Networks
+ Classify the MNIST dataset with a linear Contrastive Local Learning Network.
 
  Required libraries:
  1. numpy
